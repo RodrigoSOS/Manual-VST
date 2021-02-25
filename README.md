@@ -14,7 +14,11 @@ Repositório para demonstrar os primeiros passos do desenvolvimento de um plug-i
   * [DAWs]()
   * [Outras]()
 
+## Primeiros Passos
+  * []()
+
 ## Exemplos
+  Para exemplificar 
   * [ganho]()
   * [transpose]()
   * [sampler]()

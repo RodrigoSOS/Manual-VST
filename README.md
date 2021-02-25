@@ -6,7 +6,7 @@ Repositório para demonstrar os primeiros passos do desenvolvimento de um plug-i
   * [Artigo](#) - em construção
 
 ## O que é VST?
-  * [Resumo]()
+  * [Resumo](#)
   * [Wiki](https://en.wikipedia.org/wiki/Virtual_Studio_Technology)
 
 ## Ferramentas
@@ -15,17 +15,19 @@ Repositório para demonstrar os primeiros passos do desenvolvimento de um plug-i
   * [Outras]()
 
 ## Primeiros Passos
-  * []()
+  * [Baixando Projucer](#)
+  * [Gerando Plug-in](#)
+  * [Configuraçoes iniciais](#)
 
 ## Exemplos
   Para exemplificar 
-  * [ganho]()
-  * [transpose]()
-  * [sampler]()
+  * [ganho](#)
+  * [transpose](#)
+  * [sampler](#)
 
 ## Conclusão
-  * [DrumKit]()
-  * [Modulo bateria]()
+  * [DrumKit](#)
+  * [Modulo bateria](#)
 
 ## Links
   *

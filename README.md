@@ -8,6 +8,7 @@ Repositório para demonstrar os primeiros passos do desenvolvimento de um plug-i
 ## O que é VST?
   * [Resumo](#)
   * [Wiki](https://en.wikipedia.org/wiki/Virtual_Studio_Technology)
+  * [Outros termos](#)
 
 ## Ferramentas
   * [JUCE]()
@@ -30,6 +31,6 @@ Repositório para demonstrar os primeiros passos do desenvolvimento de um plug-i
   * [Modulo bateria](#)
 
 ## Links
-  * [https://new.steinberg.net/developers/](https://new.steinberg.net/developers/)
-  * [https://juce.com/](https://juce.com/)
+  * [VTS SDK](https://new.steinberg.net/developers/)
+  * [Site Juce](https://juce.com/)
   * [Canal The Audio Programmer](https://www.youtube.com/channel/UCpKb02FsH4WH4X_2xhIoJ1A?pbjreload=102)

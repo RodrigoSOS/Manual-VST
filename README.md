@@ -2,7 +2,7 @@
 Repositório para demonstrar os primeiros passos do desenvolvimento de um plug-in VST, utilizando JUCE, para acompanhar o Trabalho de Conclusão de Curso.
 
 ## 
-  * [Projeto]()
+  * [Projeto](https://github.com/RodrigoSOS/Manual-VST/blob/main/Projeto%20TCC%20Rodrigo%20Lopes%20da%20Silva.pdf)
   * [Artigo](#) - em construção
 
 ## O que é VST?

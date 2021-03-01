@@ -6,29 +6,29 @@ Repositório para demonstrar os primeiros passos do desenvolvimento de um plug-i
   * [Artigo](#) - em construção
 
 ## O que é VST?
-  * [Resumo](#)
+  * [Resumo](#) - em breve
   * [Wiki](https://en.wikipedia.org/wiki/Virtual_Studio_Technology)
-  * [Outros termos](#)
+  * [Outros termos](#) - em breve
 
 ## Ferramentas
-  * [JUCE]()
-  * [DAWs]()
-  * [Outras]()
+  * [JUCE](#) - em breve
+  * [DAWs](#) - em breve
+  * [Outras](#) - em breve
 
 ## Primeiros Passos
-  * [Baixando Projucer](#)
-  * [Gerando Plug-in](#)
-  * [Configuraçoes iniciais](#)
+  * [Baixando Projucer](#) - em breve
+  * [Gerando Plug-in](#) - em breve
+  * [Configuraçoes iniciais](#) - em breve
 
 ## Exemplos
   Para exemplificar 
-  * [ganho](#)
-  * [transpose](#)
-  * [sampler](#)
+  * [ganho](#) - em breve
+  * [transpose](#) - em breve
+  * [sampler](#) - em breve
 
 ## Conclusão
-  * [DrumKit](#)
-  * [Modulo bateria](#)
+  * [DrumKit](#) - em breve
+  * [Modulo bateria](#) - em breve
 
 ## Links
   * [VTS SDK](https://new.steinberg.net/developers/)

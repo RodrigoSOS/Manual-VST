@@ -7,7 +7,7 @@ Repositório para demonstrar os primeiros passos do desenvolvimento de um plug-i
 
 ## O que é VST?
   * [Resumo](#) - em breve
-  * [Wiki](https://en.wikipedia.org/wiki/Virtual_Studio_Technology)
+  * [Wikipedia](https://en.wikipedia.org/wiki/Virtual_Studio_Technology)
   * [Outros termos](#) - em construção
 
 ## Ferramentas

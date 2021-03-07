@@ -12,7 +12,7 @@ Além do Projucer, outras aplicações interessantes para o desenvolvimento vier
 
 Ao Abrir o Projucer o último projeto será aberto, mas a tela de New Project pode ser alcançada ao clicar em File > New Project... , ou ctrl+N.
 
-## Tela Inicial
+## New Project
 
 Alguns item da tela foram enumerados para acompanhar o tutorial.
 

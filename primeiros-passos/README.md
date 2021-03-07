@@ -13,7 +13,7 @@ Além do Projucer, outras aplicações interessantes para o desenvolvimento vier
 Ao Abrir o Projucer o último projeto será aberto, mas a tela inicial pode ser alcançada ao clicar em File > New Project... , ou ctrl+N.
 
 ![NewProjectProjucer](https://user-images.githubusercontent.com/29122971/110245909-0e56b800-7f44-11eb-95dd-e43f7248c530.png)
-<img src="https://user-images.githubusercontent.com/29122971/110245909-0e56b800-7f44-11eb-95dd-e43f7248c530.png" hight=""200>
+<img src="https://user-images.githubusercontent.com/29122971/110245909-0e56b800-7f44-11eb-95dd-e43f7248c530.png" height=""200>
 
 
 

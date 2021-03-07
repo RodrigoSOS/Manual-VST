@@ -25,8 +25,10 @@ Alguns item da tela foram enumerados para acompanhar o tutorial.
 5. Aqui é escolhido quais funcionalidades do Juce estarão presentes no projeto;
 6. Caminho dos codigos do Juce, diferente que o caminho em que o projeto será salvo;
 7. IDEs que o Projucer vai dar suporte para esse projeto;
-8. Arquivos que o Projece irá criar, varia de acordo com o template escolhido;
+8. Arquivos de código que o Projece irá criar, varia de acordo com o template escolhido;
 9. Escolhe o lugar que o projeto será salvo e o cria.
+
+Para esse manual, o unico template abordado será o Plug-In > Basic. Ao escolher esse template não será necessário escolher outros Modules e File Creation Options. Escolha o nome que usará no projeto. Escolha o Path to Modules adequado do juce em seu computador, uma vez escolhada já estará salva nas próximas vezes. Escolha A IDE que irá usar para compilar o projeto. Crie o Projeto.
 
 # Configurações inicias
 

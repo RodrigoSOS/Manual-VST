@@ -16,9 +16,9 @@ Repositório para demonstrar os primeiros passos do desenvolvimento de um plug-i
   * [Outras](#) - em breve
 
 ## Primeiros Passos
-  * [Baixando Projucer](#) - em breve
-  * [Gerando Plug-in](#) - em breve
-  * [Configuraçoes iniciais](#) - em breve
+  * [Baixando Projucer](https://github.com/RodrigoSOS/Manual-VST/tree/main/primeiros-passos) - em construção
+  * [Gerando Plug-in](https://github.com/RodrigoSOS/Manual-VST/tree/main/primeiros-passos) - em construção
+  * [Configuraçoes iniciais](https://github.com/RodrigoSOS/Manual-VST/tree/main/primeiros-passos) - em construção
 
 ## Exemplos
   Para exemplificar 

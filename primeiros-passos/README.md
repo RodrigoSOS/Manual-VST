@@ -10,7 +10,7 @@ Além do Projucer, outras aplicações interessantes para o desenvolvimento vier
 
 # Gerando Plug-in
 
-Ao Abrir o Projucer o último projeto será aberto, mas a tela inicial pode ser alcançada ao clicar em File > New Project... , ou ctrl+N.
+Ao Abrir o Projucer o último projeto será aberto, mas a tela de New Project pode ser alcançada ao clicar em File > New Project... , ou ctrl+N.
 
 ## Tela Inicial
 

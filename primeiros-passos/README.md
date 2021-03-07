@@ -14,7 +14,8 @@ Ao Abrir o Projucer o último projeto será aberto, mas a tela inicial pode ser 
 
 ## Tela Inicial
 
-Alguns item da tela foram enumerados para acompanhar 
+Alguns item da tela foram enumerados para acompanhar o tutorial.
+
 <img src="https://user-images.githubusercontent.com/29122971/110245909-0e56b800-7f44-11eb-95dd-e43f7248c530.png" height="400">
 1. Aqui pode ser encontrado os templetes para gerar o projeto;
 2. Aqui pode ser encontrado os exemplos que foram baixados junto do Projucer;

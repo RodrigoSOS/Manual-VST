@@ -17,8 +17,8 @@ Esse manual abordará uma introdução sobre as ferramentas utiliazas na produç
   * [Outras](#) - em breve
 
 ## Primeiros Passos
-  * [Baixando Projucer](https://github.com/RodrigoSOS/Manual-VST/tree/main/primeiros-passos#baixando-projucer) - em construção
-  * [Gerando Plug-in](https://github.com/RodrigoSOS/Manual-VST/tree/main/primeiros-passos#configurações-inicias) - em construção
+  * [Baixando Projucer](https://github.com/RodrigoSOS/Manual-VST/tree/main/primeiros-passos#baixando-projucer)
+  * [Gerando Plug-in](https://github.com/RodrigoSOS/Manual-VST/tree/main/primeiros-passos#configurações-inicias)
   * [Configuraçoes iniciais](https://github.com/RodrigoSOS/Manual-VST/tree/main/primeiros-passos#conhecendo-o-codigo) - em construção
 
 ## Exemplos

@@ -4,7 +4,7 @@
 
 ### Formatos de plug-ins de áudio
   * VST (Virtual Studio Technology, em PT-BR: Tecnologia de Estúdio Virtual) - Termo mais abordado no trabalho;
-  * AU (Audio Units, em PT-BR: Unidades de Audio) - Tecnologia semelhante ao VST desenvolvido para para os sistemas operacionais da Aplle;
+  * AU (Audio Units, em PT-BR: Unidades de Audio) - Tecnologia semelhante ao VST desenvolvido para para os sistemas operacionais da Apple;
   * AAX (Avid Audio eXtension, Sem tradução direta para PT-BR) - Tecnologia desenvolvida pela Avid, que prioriza os processos do tipo DSP, pode ser executada em placas auxiliares;
   * RTAS (Real-Time AudioSuite, em PT-BR: Estúdio de Áudio em Tempo Real) - Foi substituído pelo AAX, sua execução se dava exclusivamente no processador;
   * DX (DirectX, sem tradução direta para PT-BR) - Tecnologia desenvolvida pela Microsoft, possui arquitetura diferente dos formatos acima, por conta disso, a biblioteca JUCE não possui suporte a esse formato.

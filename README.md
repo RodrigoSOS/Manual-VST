@@ -12,9 +12,9 @@ Esse manual abordará uma introdução sobre as ferramentas utiliazas na produç
   * [Outros termos](https://github.com/RodrigoSOS/Manual-VST/tree/main/termos)
 
 ## Ferramentas
-  * [JUCE](#) - em breve
-  * [DAWs](#) - em breve
-  * [Outras](#) - em breve
+  * [JUCE](https://github.com/RodrigoSOS/Manual-VST/tree/main/ferramentas#juce) - em breve
+  * [DAWs](https://github.com/RodrigoSOS/Manual-VST/tree/main/ferramentas#daws) - em breve
+  * [Outras](https://github.com/RodrigoSOS/Manual-VST/tree/main/ferramentas#outras) - em breve
 
 ## Primeiros Passos
   * [Baixando Projucer](https://github.com/RodrigoSOS/Manual-VST/tree/main/primeiros-passos#baixando-projucer)

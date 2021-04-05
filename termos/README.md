@@ -20,8 +20,8 @@
   * IDE (Integrated Development Environment, PT-BR: Ambiente de Desenvolvimento Integrado) - Softwares que auxiliam na produção de códigos, com o objetivo de ajudar e agilizar o desenvolvedor.
 
 ## Programas e Drives
-  * JUCE 
-  * ASIO
+  * JUCE - Framework para desenvolvimento de plug-ins
+  * ASIO - Driver digital de Audio, produzida pela Steinberg, com baixa latencia e alta fidelidade
 
 
 

@@ -15,12 +15,12 @@
   * SDK (Software Development Kit, em PT-BR: Kit de Desenvolvimento de Software) - Também chamando de devkit, é um conjunto de ferramentas e/ou codigos para auxiliar o desenvolvimento de softwares.
   * MIDI (Musical Instrument Digital Interface, em PT-BR: Interface Digital de Instrumentos Musicais) - protocolo de comunicação baseada em tempo criada para produção musical. Também pode ser um formato de arquivo contendo as informações de uma mensagem MIDI, este formato também possui a extensão.
   * DAW (Digital Audio Workstation, em PT-BR: estação de trabalho de áudio digital) - Softwares de gravação de audio.
-  * FX (SFX, special effect, tradução livre: efeitos especiais) - 
-  * DSP
-  * IDE
+  * FX (SFX, special effect, tradução livre: efeitos especiais) - Termo referente a efeitos aplicado em uma determinada fonte, geralmente na pós produção.
+  * DSP (Digital Signal Processor, PT-BR: Processamento digital de sinal) - Microprocessadores com função de analizar e tratar sinais, podendo aplicar efeitos. Neste trabalho seram abordados apenas os códigos baseados nesses processadores, que realizam processos semelhantes.
+  * IDE (Integrated Development Environment, PT-BR: Ambiente de Desenvolvimento Integrado) - Softwares que auxiliam na produção de códigos, com o objetivo de ajudar e agilizar o desenvolvedor.
 
 ## Programas e Drives
-  * JUCE
+  * JUCE 
   * ASIO
 
 

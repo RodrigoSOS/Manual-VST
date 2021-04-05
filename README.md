@@ -23,7 +23,6 @@ Como conclusão deste trabalho, será feita a conversão de uma bateria acustica
   * [Configuraçoes iniciais](https://github.com/RodrigoSOS/Manual-VST/tree/main/primeiros-passos#conhecendo-o-codigo) - em construção
 
 ## Exemplos
-  Para exemplificar 
   * [ganho](#) - em breve
   * [transpose](#) - em breve
   * [sampler](#) - em breve

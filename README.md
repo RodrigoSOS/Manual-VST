@@ -1,5 +1,6 @@
 # Manual-VST
 Repositório para demonstrar os primeiros passos do desenvolvimento de um plug-in VST, utilizando JUCE, para acompanhar o Trabalho de Conclusão de Curso.
+Esse manual abordará uma introdução sobre as ferramentas utiliazas na produção, alguns exemplos simples e finalizando com um plug-in de instrumento digital.
 
 ## 
   * [Projeto](https://github.com/RodrigoSOS/Manual-VST/blob/main/Projeto%20TCC%20Rodrigo%20Lopes%20da%20Silva.pdf)

@@ -8,7 +8,7 @@ Como conclusão deste trabalho, será feita a conversão de uma bateria acustica
   * [Artigo](#) - em construção
 
 ## O que é VST?
-  * [Resumo](#) - em breve
+  * [Resumo](https://github.com/RodrigoSOS/Manual-VST/tree/main/Resumo) - em breve
   * [Wikipedia](https://en.wikipedia.org/wiki/Virtual_Studio_Technology)
   * [Outros termos](https://github.com/RodrigoSOS/Manual-VST/tree/main/termos)
 

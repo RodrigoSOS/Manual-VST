@@ -15,6 +15,7 @@ Como conclusão deste trabalho, será feita a conversão de uma bateria acustica
 ## Ferramentas
   * [JUCE](https://github.com/RodrigoSOS/Manual-VST/tree/main/ferramentas#juce) - em breve
   * [DAWs](https://github.com/RodrigoSOS/Manual-VST/tree/main/ferramentas#daws) - em breve
+  * [IDE](https://github.com/RodrigoSOS/Manual-VST/tree/main/ferramentas#ide) - em breve
   * [Outras](https://github.com/RodrigoSOS/Manual-VST/tree/main/ferramentas#outras) - em breve
 
 ## Primeiros Passos

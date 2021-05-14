@@ -36,4 +36,5 @@ Como conclusão deste trabalho, será feita a conversão de uma bateria acustica
   * [VTS SDK](https://new.steinberg.net/developers/)
   * [Site Juce](https://juce.com/)
   * [Visual Studio](https://visualstudio.microsoft.com/pt-br/)
+  * [Reaper](https://www.reaper.fm/)
   * [Canal The Audio Programmer](https://www.youtube.com/channel/UCpKb02FsH4WH4X_2xhIoJ1A?pbjreload=102)

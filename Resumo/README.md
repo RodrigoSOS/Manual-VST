@@ -3,7 +3,9 @@ VST (Virtual Studio Tecnology) são plug-ins voltado para a produção musical, 
 
 ## Exemplos de VSTs
 Além dos pacotes padrões dos sosftwares pode-se adicionar pluguins externos que podem ser encontrados na internet. Alguns destes pluguins podem ser encontrados em versões gratuita:
+
 [biblioteca de plugins gratis da Berklee](https://library.berklee.edu/knowledge-base/free-plugins-around-internet)
+
 [site da Native Instruments](https://www.native-instruments.com/en/specials/free-vst-plugins/)
 Caso queira comprar algum plugin, a loja virtual mais completa :
 [PLuinBoutique](https://www.pluginboutique.com/)

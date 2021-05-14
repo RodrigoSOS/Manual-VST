@@ -24,9 +24,9 @@ Como conclusão deste trabalho, será feita a conversão de uma bateria acustica
   * [Configuraçoes iniciais](https://github.com/RodrigoSOS/Manual-VST/tree/main/primeiros-passos#conhecendo-o-codigo) - em construção
 
 ## Exemplos
-  * [ganho](#) - em breve
-  * [transpose](#) - em breve
-  * [sampler](#) - em breve
+  * [ganho](https://github.com/RodrigoSOS/Manual-VST/tree/main/Exemplos/Ganho) - em breve
+  * [transpose](https://github.com/RodrigoSOS/Manual-VST/tree/main/Exemplos/Transpose) - em breve
+  * [sampler](https://github.com/RodrigoSOS/Manual-VST/tree/main/Exemplos/Sampler) - em breve
 
 ## Conclusão
   * [DrumKit](#) - em breve

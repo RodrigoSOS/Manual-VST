@@ -23,6 +23,11 @@ Como conclusão deste trabalho, será feita a conversão de uma bateria acustica
   * [Gerando Plug-in](https://github.com/RodrigoSOS/Manual-VST/tree/main/primeiros-passos#configurações-inicias)
   * [Configuraçoes iniciais](https://github.com/RodrigoSOS/Manual-VST/tree/main/primeiros-passos#conhecendo-o-codigo) - em construção
 
+
+## Conhecendo o Código
+  * [PluginProcessor](#) - em breve
+  * [PluginEditor](#) - em breve
+
 ## Exemplos
   * [ganho](https://github.com/RodrigoSOS/Manual-VST/tree/main/Exemplos/Ganho) - em breve
   * [transpose](https://github.com/RodrigoSOS/Manual-VST/tree/main/Exemplos/Transpose) - em breve
